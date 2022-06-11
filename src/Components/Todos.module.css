@@ -1,0 +1,19 @@
+.main{
+    border: 1px solid black;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #f1e1c6;
+
+}
+.main>div>input{
+    border: none;
+    width: 90%;
+    background-color: #819375;
+    padding: 4%;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 20px;
+}
